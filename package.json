@@ -1,0 +1,15 @@
+{
+  "name": "bloom",
+  "version": "0.0.1",
+  "description": "DarkFlorist opinionated code formatter",
+  "author": "Jubal Mabaquiao <jubal.mabaquiao@gmail.com>",
+  "license": "ISC",
+  "type": "module",
+  "bin": "./bloom.mjs",
+  "dependencies": {
+    "@stylistic/eslint-plugin": "1.7.0",
+    "@typescript-eslint/parser": "7.5.0",
+    "commander": "12.0.0",
+    "eslint": "8.57.0"
+  }
+}
